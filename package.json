@@ -1,0 +1,19 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "Webhook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Eugenio Chaparro",
+  "dependencies": {
+    "actions-on-google": "^3.0.0",
+    "dialogflow": "^1.2.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "googleapis": "^108.0.0",
+    "express": "^4.13.4"
+  }
+}
+
+
