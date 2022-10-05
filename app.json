@@ -1,6 +1,6 @@
 {
   "name": "Webhook",
   "description": "Webhook",
-  "repository": "https://github.com/eucm2/webhook.git",
+  "repository": "https://github.com/sghome/bot.git",
   "keywords": ["api.ai", "dialogflow", "natural language"]
 }
